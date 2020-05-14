@@ -1,0 +1,38 @@
+<html>
+<head>
+<link href="estilos.css" rel=StyleSheet type="text/css">
+</head>
+<body>
+<h1 align="center"> Factores que han influido en el desarrollo de la inteligencia artificial</h1>
+<div style="text-align: center;">  <iframe width="420" height="315" src="https://www.youtube.com/embed/tCpf5wDr0UE"> </iframe> </div>
+
+<ul<p align="center">
+  <li><b>Big data</b></li>
+  <ul<p align="center">
+  <li>Entorno tecnológico</li>
+  <li>Avance en algoritmo</li>
+</ul>
+</ul>
+</p>
+<div style="text-align: center;"> <table style="width:100%">
+  <tr <TABLE border="20" cellpadding="S15" cellspacing="S20" width="80%" bgcolor="0EE5E7">
+    <th style="text-align: center;">Big Data</th>
+    <th style="text-align: center;">Entorno tecnológico</th>
+    <th style="text-align: center;">Avance en algoritmo</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Big Data es la posibilidad de explotar comercialmente una gran cantidad de datos para crear nuevos servicios comerciales</td>
+    <td style="text-align: center;">Es la suma total del conocimiento que se tiene de las formas de hacer las cosas; cómo se diseñan, producen, distribuyen y venden los bienes y los servicios.</td>
+    <td style="text-align: center;">Avance en un conjunto ordenado de operaciones sistemáticas que permite hacer un cálculo y hallar la solución de un tipo de problemas.</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><img src="bigdata.PNG" width="100" height="100">
+    <td style="text-align: center;"><img src="entorno.PNG" width="100" height="100">
+    <td style="text-align: center;"><img src="avance.PNG" width="100" height="100">
+  </tr>
+</table>
+</div>
+<a href="index.html">
+<img src="casa.png" style="width:200px;height:130px;">
+</a>
+</html>
